@@ -1,0 +1,49 @@
+@import '_colors';
+@import '_reset';
+
+h1 {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+    color: var(--main-text);
+}
+
+.main-text {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    color: var(--main-text);
+}
+
+.search-text {
+    color: var(--search-text);
+}
+
+.title-text {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 21px;
+    color: var(--main-text);
+}
+
+.green {
+    color: var(--button-color);
+}
+
+.white {
+    color: var(--button-text);
+}
+
+.list-number {
+    font-family: 'Nunito';
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 12px;
+    color: var(--button-color);
+}
+
+
+
